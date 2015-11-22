@@ -34,3 +34,5 @@ Lab 12: Binary Trees/Binary Search Trees
 Lab 13: Hash Tables
 
 Note that these are not necarily the names of the labs, but rather what the labs are about
+
+Will this let me make a commit?
